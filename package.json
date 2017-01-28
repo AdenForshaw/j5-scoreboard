@@ -1,0 +1,25 @@
+{
+  "name": "j5-scoreboard",
+  "version": "1.0.0",
+  "description": "Johnny-five.io / Arduino / Socket.io powered scoreboard. Used in IoT & JavaScript Talk by Aden Forshaw",
+  "main": "client.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AdenForshaw/j5-scoreboard/"
+  },
+  "keywords": [
+    "johnny-five.io",
+    "arduino",
+    "socket.io",
+    "scoreboard"
+  ],
+  "author": "aden forshaw",
+  "license": "ISC",
+  "dependencies": {
+    "johnny-five": "^0.10.6",
+    "socket.io-client": "^1.7.2"
+  }
+}
